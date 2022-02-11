@@ -1,0 +1,12 @@
+{
+    "datas": [
+        {
+            "id": 1,
+            "name": "marco",
+            "city": "Sulawesi",
+            "phone": 9923222,
+            "member": "Member since April 2023",
+            "email": "coco@gmail.com"
+        }
+    ]
+}
